@@ -27,7 +27,7 @@ NOTE: Namecheap has a production as well as a test server environment. The test 
 
 ##### Download and Installation
 
-- Download the latest plugin (namecheap-whmcs.x.x.zip) archive and extract it.
+- If you are a github user, fork/clone this repository into your github account. If you do not have a github account, use the download ZIP option to make a copy.
 - Create a folder called namecheap under Modules/Registrar in your WHMCS root directory and paste the downloaded namecheap.php and namecheapapi.php files inside the folder (the namecheap.php and namecheapapi.php files are located inside the downloaded archive). The plug-in installation is complete.
 
 ##### Configuration
